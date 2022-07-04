@@ -1,0 +1,23 @@
+.search-items{
+  flex-direction: row;
+  display: flex;
+}
+
+
+.search {
+  display:flex;
+  padding: 5px;
+  margin: 50px 15px;
+  font-size: 18px;
+}
+
+
+.search-items h1{
+  display: inline;
+  padding: 5px;
+  margin: 45px 20px;
+}
+.msg{
+  margin: 30px 15px;
+  color: brown;
+}
